@@ -23,7 +23,8 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/aONDPpu"  ><a href="//imgur.com/a/aONDPpu">Pre-work Walkthrough - Vu Hoang</a></blockquote>
+![Kapture 2025-05-02 at 18 19 17](https://github.com/user-attachments/assets/a16f7540-1611-4c4c-9097-8f1cca419434)
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Kap
